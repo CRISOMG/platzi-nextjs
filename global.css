@@ -13,3 +13,7 @@
   margin: 1rem auto 0;
   max-width: 80ch;
 }
+
+body {
+  font-family: Lato, Helvetica Neue, Arial, Helvetica, sans-serif;
+}
