@@ -6,7 +6,7 @@
       "@cors": ["cors-middleware.ts"],
       "@components/*": ["src/components/*"],
       "@store/*": ["src/store/*"],
-      "@public": ["public/*"]
+      "@config": ["config/*"]
     },
     "target": "es6",
     "lib": ["dom", "dom.iterable", "esnext"],
