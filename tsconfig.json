@@ -4,8 +4,9 @@
     "paths": {
       "@database": ["database/db.ts"],
       "@cors": ["cors-middleware.ts"],
-      "@components/*": ["components/*"],
-      "@store/*": ["store/*"]
+      "@components/*": ["src/components/*"],
+      "@store/*": ["src/store/*"],
+      "@config": ["config/*"]
     },
     "target": "es6",
     "lib": ["dom", "dom.iterable", "esnext"],
